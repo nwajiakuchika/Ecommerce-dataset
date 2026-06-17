@@ -8,7 +8,7 @@ for profit.
 
 **DATA FEATURES**
 
-Order Date, Category,Region,Quantity,Product Name,Sales and Profit
+Order Date,Category,Region,Quantity,Product Name,Sales and Profit
 
 - 
 **TOOLS USED**
@@ -25,7 +25,7 @@ features
 
 Some categories generated high profit than others.
 Regional performance varied across sales location.
-QUantity purchase influence profit and revenue.
+Quantity purchase influence profit and revenue.
 Sales trends help identify profitable business opportunity.
 
 **CONCLUSION**
